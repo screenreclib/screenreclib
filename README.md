@@ -2,6 +2,7 @@
 <p> <img alt="c++" src="https://img.shields.io/badge/C++-17-blue.svg?style=flat&logo=c%2B%2B"/> 
  <img alt="cmake" src="https://github.com/screenreclib/screenreclib/actions/workflows/build.yml/badge.svg"/>
  <img alt="flawfinder" src="https://github.com/screenreclib/screenreclib/actions/workflows/flawfinder.yml/badge.svg"/>
+ <img alt="codeql" src="https://github.com/screenreclib/screenreclib/actions/workflows/codeql.yml/badge.svg?branch=master"/>
 <p/>
 
 
